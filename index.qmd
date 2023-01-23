@@ -1,0 +1,10 @@
+---
+title: "Daniel Thiele"
+# image: headshot.jpg
+---
+
+Hi, I'm Daniel Thiele. I am a PhD candidate in political science at University of Vienna. In my [research](https://orcid.org/0000-0003-0324-4943){target="_blank"}, I focus on populist communication on social media. I have a strong interest in computational methods and try to contribute useful R-packages [here](https://github.com/thieled){target="_blank"}.
+
+While this page is under construction, you can find me here:
+
+[{{< ai orcid size=2x title="orcid">}}](https://orcid.org/0000-0003-0324-4943){target="_blank"} [{{< ai google-scholar size=2x title="google-scholar">}}](https://scholar.google.com/citations?user=phDzmA4AAAAJ){target="_blank"} [{{< fa brands github size=2x title="github">}}](https://github.com/thieled){target="_blank"} [{{< fa brands twitter size=2x title="twitter" >}}](https://twitter.com/daniel_t_thiele){target="_blank"} [{{< fa brands mastodon size=2x title="mastodon" >}}](https://mas.to/@thiele){target="_blank"} [{{< fa envelope size=2x title="email" >}}](mailto:daniel.thiele@univie.ac.at) ---

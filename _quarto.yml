@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Daniel Thiele"
+  navbar:
+   # left:
+      # - href: index.qmd
+      #  text: Daniel Thiele
+    search: false
+
+format:
+  html:
+    theme: 
+      - darkly
+      - custom.scss
+    css: styles.css
+    toc: true
+
+editor: visual
+
