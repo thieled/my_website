@@ -1,0 +1,27 @@
+---
+title: "Biathlon Predictor"
+description: "just testing things for now..."
+author:
+  - name: Daniel Thiele
+    url: https://thieledaniel.de/
+    orcid: 0000-0003-0324-4943
+date: 01-24-2023
+categories: [R, ML, sports] 
+citation: 
+  url: https://thieledaniel.de/posts/2023-01-24-biathlonpredictor/ 
+image: pred.png
+format: html
+draft: true 
+freeze: true
+output:
+  html_document:
+    css: mycss.css
+---
+
+Trained an gbm LamdaMART ranking predictor on the race outcomes of the past 10 biathlon seasons. Below is a shiny app that uses this model and updated features to predict upcoming races.
+
+Will write a blog post about this soon.
+
+```{=html}
+<iframe height="650" width="800" src="https://thieled.shinyapps.io/biathlonpredictor_shiny/"></iframe>
+```
