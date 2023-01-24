@@ -1,0 +1,14 @@
+{
+  "hash": "467a5eadea8df0d3c16d9df786e043a5",
+  "result": {
+    "markdown": "---\ntitle: \"Biathlon Predictor\"\ndescription: \"just testing things for now...\"\nauthor:\n  - name: Daniel Thiele\n    url: https://thieledaniel.de/\n    orcid: 0000-0003-0324-4943\n    affiliation: U. Vienna \ndate: 01-24-2023\ncategories: [R, ML, sports] # self-defined categories\ncitation: \n  url: https://thieledaniel.de/posts/2023-01-24-biathlonpredictor/ \nimage: pred.png\ndraft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!\n---\n\n\ntest\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n```{=html}\n<iframe width=\"800\" heigth=\"1000\" src=\"https://thieled.shinyapps.io/biathlonpredictor_shiny/\"></iframe>\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

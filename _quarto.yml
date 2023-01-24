@@ -4,9 +4,8 @@ project:
 website:
   title: "Daniel Thiele"
   navbar:
-   # left:
-      # - href: index.qmd
-      #  text: Daniel Thiele
+    left:
+      - posts.qmd 
     search: false
 
 format:
